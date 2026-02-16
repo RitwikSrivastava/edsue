@@ -12,7 +12,7 @@ import {
   loadCSS,
 } from './aem.js';
 
-const CONTENT_ROOT_PATH = '/content/Gazal-ue-site';
+const CONTENT_ROOT_PATH = '/content/ritsriva-ue';
 
 /**
  * Helper function that converts an AEM path into an EDS path.
